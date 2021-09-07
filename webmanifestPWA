@@ -3,7 +3,7 @@
   "short_name": "trynonsense",
   "start_url": "https://trynonsense.blogspot.com/",
   "display": "standalone",
-   "background_color": "#fff",
+   "background_color": "#e5e5e5",
   "theme_color": "#3f00ff",
   "description": "Silahkan masukan deskripsi blog anda",
   "icons": [{
